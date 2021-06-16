@@ -1,3 +1,4 @@
+name: content-web
 on:
  push:
  branches:
